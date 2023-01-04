@@ -62,7 +62,12 @@ The API response look like:<br>
     }
     ```
 ## Details of MySQL server
-This project have a <mark>.env</mark> file. Where database credentials are written.
+This project have a <mark>.env</mark> file. Where database credentials are written.<br>
+```
+user: root
+password:admin
+```
+Database Dump is attached in the **database** folder.
 
     
 
